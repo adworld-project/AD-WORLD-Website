@@ -1,5 +1,3 @@
-# AD World
-
 An interdisciplinary project on advertisements
 - Kaspar Beelen
 - Ben Lee
@@ -49,12 +47,3 @@ has tentatively engaged with multi-modal techniques, but bringing such methods t
 Our aim in this workshop is to bring colleagues together to share findings and insight about the most effective way to leverage cutting-edge
 methods in tackling these generic challenges, focusing in the first instance on this one specific
 source type; namely, adverts, which will be of great interest to many historical researchers.
-
-## Objective
-This workshop is the first of two planned meetings bringing together researchers with experience of
-working computationally with historical newspapers. Our aim is to use this event at the Turing to:
-establish a research team with relevant skills and interests, and identify a suitable set of challenges
-to be addressed in a future research project at the Turing with international partners. We hope to
-hold the second meeting as a Lorentz Workshop (in 2023), to develop a major bid that builds
-concretely on Living with Machines’ work with British newspapers. Further steps may include
-collaborating with the Scivision project and shaping large research bids that will follow on from
