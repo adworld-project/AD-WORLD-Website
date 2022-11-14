@@ -7,6 +7,7 @@ An interdisciplinary project on advertisements
 - [Melvin Wevers](http://www.melvinwevers.nl) - University of Amsterdam
 - [Daniel C.S. Wilson](https://www.turing.ac.uk/people/researchers/daniel-wilson) - The Alan Turing Institute
 
+![logo](/AD-WORLD-Website/assets/3922812712_The_perfect_advertisement_from_the_1930s.png)
 
 ## Problem
 Digitised newspaper collections in Britain and around the world comprise vast datasets containing
