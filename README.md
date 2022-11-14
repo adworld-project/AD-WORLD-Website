@@ -1,11 +1,11 @@
 An interdisciplinary project on advertisements
-- Kaspar Beelen
-- Ben Lee
-- Katie McDonough
-- Thomas Smits
-- Daniel van Strien
-- Melvin Wevers
-- Daniel Wilson
+- [Kaspar Beelen](https://www.turing.ac.uk/people/researchers/kaspar-beelen) - The Alan Turing Institute
+- [Ben Lee](https://www.bcglee.com) - University of Washington
+- [Katie McDonough](https://www.turing.ac.uk/people/researchers/katherine-mcdonough) - The Alan Turing Institute
+- [Thomas Smits](http://thomassmits.eu/) - Antwerp University
+- [Daniel van Strien](https://danielvanstrien.xyz/about/) - British Library
+- [Melvin Wevers](http://www.melvinwevers.nl) - University of Amsterdam
+- [Daniel C.S. Wilson](https://www.turing.ac.uk/people/researchers/daniel-wilson) - The Alan Turing Institute
 
 
 ## Problem
